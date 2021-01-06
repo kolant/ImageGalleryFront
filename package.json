@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/jquery": "^3.3.31",
     "@types/uuid": "^7.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.0.2",
     "core-js": "^3.6.4",
     "jquery": "^3.4.1",
